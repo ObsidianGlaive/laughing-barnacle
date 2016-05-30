@@ -1,2 +1,4 @@
 # laughing-barnacle
-An Android Game (In Development) made with Unity3d
+Note: Many features will be implemented in later versions
+#
+Note: Some files are unnecessary for the current build
